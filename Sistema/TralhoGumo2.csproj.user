@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\CadastroCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CadastroVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ClientesInadimplentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ComissaoPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PagametoJan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RelatorioVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GerenteJanela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RelatorioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RelatorioProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Sistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TotalPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Ultimos30Dias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
